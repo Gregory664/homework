@@ -13,7 +13,7 @@ public class Calculator {
         return a * b;
     }
 
-    public static double dib(int a, int b) {
+    public static double div(int a, int b) {
         return a / (b * 1D);
     }
 }

@@ -11,6 +11,14 @@
 
     <artifactId>core</artifactId>
     <version>0.0.1</version>
+    <dependencies>
+        <dependency>
+            <groupId>com.homework</groupId>
+            <artifactId>calculator</artifactId>
+            <version>1.0</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
